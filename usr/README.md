@@ -1,6 +1,6 @@
-# couldai_user_app
+# Coupon App
 
-A new Flutter project.
+A coupon selling application.
 
 ## Getting Started
 
